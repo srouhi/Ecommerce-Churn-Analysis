@@ -37,8 +37,9 @@ This project analyzes customer churn patterns in an e-commerce platform using SQ
 ---
 
 ## Dashboard Preview
+For a full view of the Power BI dashboard, check out the [PDF version here](./dashboard/ecommerce_churn_dashboard.pdf).
 
-![Churn Dashboard Screenshot](powerbi/dashboard_screenshot.png)
+
 
 ---
 
